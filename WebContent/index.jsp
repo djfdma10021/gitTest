@@ -14,7 +14,7 @@
 		<ul>
 			<li>1.브런치 초기화 : 특정 위치로 되돌림(Hard:폐기/Mixed: unstaging / Soft:staging)</li>
 
-			<li>2. 리버스 커밋</li>
+			<li>2. 리버스 커밋 : 되돌아갈 위치 지점을 새로 커밋하는 개념</li>
 		</ul>	
 	</body>
 	<script>
